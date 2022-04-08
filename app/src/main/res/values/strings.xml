@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <string name="empty_val">Por favor ingrese una palabra para obtener resultado</string>
+    <string name="result_query">El resultado para la query es %s</string>
+</resources>
